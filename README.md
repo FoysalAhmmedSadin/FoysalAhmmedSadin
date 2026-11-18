@@ -1,29 +1,87 @@
-<h1 align="center">Hi 👋, I'm Foysal Ahmmed Sadin</h1>
-<h3 align="center">Android Developer | Passionate about building open-source apps</h3>
+👋 Hi, I'm Foysal Ahmmed Sadin
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=foysalahmmedsadin&label=Profile%20views&color=0e75b6&style=flat" alt="foysalahmmedsadin" /> </p>
+<h3 align="center">Android Developer | Open-Source Enthusiast | Tech Explorer</h3><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=34C759&center=true&vCenter=true&width=600&lines=Android+Application+Developer;Building+Useful+Digital+Experiences;Passionate+About+Open+Source;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=foysalahmmedsadin&label=PROFILE+VIEWS&color=34C759&style=for-the-badge" alt="Profile Views" />
+</p>---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foysalahmmedsadin" alt="foysalahmmedsadin" /></a> </p>
+🚀 About Me
 
-<p align="left"> <a href="https://twitter.com/@yours-foysal" target="blank"><img src="https://img.shields.io/twitter/follow/@yours-foysal?logo=twitter&style=for-the-badge" alt="@yours-foysal" /></a> </p>
+I'm Foysal Ahmmed Sadin, an Android Developer passionate about creating useful applications and exploring modern technologies.
 
-- 📫 How to reach me **foysal24x7@gmail.com**
+- 📱 Interested in Android App Development.
+- 💻 Building practical and user-friendly applications.
+- 🌱 Continuously learning and improving my development skills.
+- 🔓 Interested in Open-Source Projects.
+- 🎨 Exploring UI/UX Design and Creative Technologies.
+- 📧 Contact: foysal24x7@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@yours-foysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yours-foysal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/foysalahmmedsadin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="foysalahmmedsadin" height="30" width="40" /></a>
-<a href="https://fb.com/foysalahmmedsadin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="foysalahmmedsadin1" height="30" width="40" /></a>
-<a href="https://instagram.com/yours_foysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yours_foysal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/foysalahmmedsadin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="foysalahmmedsadin" height="30" width="40" /></a>
-<a href="https://discord.gg/FoysalAhmmedSadin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FoysalAhmmedSadin" height="30" width="40" /></a>
+---
+
+🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,html,css,js,figma,blender,ps,ai,git,github,vscode&theme=dark" />
+</p>---
+
+📱 My Projects
+
+<p align="center">
+  <a href="https://github.com/foysalahmmedsadin">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>- Daily Expenses — A personal expense tracking application.
+- SIP Softphone — An Android-based SIP communication application.
+
+---
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=foysalahmmedsadin&show_icons=true&theme=github_dark&hide_border=true&title_color=34C759&icon_color=34C759&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysalahmmedsadin&layout=compact&theme=github_dark&hide_border=true&title_color=34C759" />
+</p><p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=foysalahmmedsadin&theme=github-dark-blue&hide_border=true&ring=34C759&fire=34C759&currStreakLabel=34C759" />
+</p>---
+
+🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=foysalahmmedsadin&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" />
+</p>---
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/yours-foysal">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/foysalahmmedsadin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://fb.com/foysalahmmedsadin1">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yours_foysal">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/foysalahmmedsadin">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/FoysalAhmmedSadin">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p><p align="center">
+  <a href="mailto:foysal24x7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-34C759?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:064E3B,100:34C759&height=120&section=footer" />
+</p><p align="center">
+  <b>💚 Thanks for visiting my profile!</b>
+  <br/>
+  <sub>Building • Learning • Innovating</sub>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foysalahmmedsadin&show_icons=true&locale=en&layout=compact" alt="foysalahmmedsadin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foysalahmmedsadin&show_icons=true&locale=en" alt="foysalahmmedsadin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foysalahmmedsadin&" alt="foysalahmmedsadin" /></p>
