@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/@yours-foysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yours-foysal" height="30" width="40" /></a>
+<a href="https://twitter.com/@yours-foysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yours-foysal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/foysalahmmedsadin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="foysalahmmedsadin" height="30" width="40" /></a>
 <a href="https://fb.com/foysalahmmedsadin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="foysalahmmedsadin1" height="30" width="40" /></a>
 <a href="https://instagram.com/yours_foysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yours_foysal" height="30" width="40" /></a>
