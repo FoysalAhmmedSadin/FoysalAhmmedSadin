@@ -31,45 +31,6 @@ I focus on building Android apps with modern tools and thoughtful interfaces. I 
 
 ---
 
-## 🚀 FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">💰 Daily Expenses</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</div>
-
-An offline-first personal finance manager for tracking income, expenses, budgets, accounts, and financial reports. Includes encrypted backups and Google Drive backup support.
-
-<div align="center">
-<a href="https://github.com/FoysalAhmmedSadin/Daily-Expenses"><img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=00FF88" /></a>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">📞 SIP Dial</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</div>
-
-An open-source Android SIP softphone and hybrid SIM/VoIP dialer built with Jetpack Compose and the Linphone SDK.
-
-<div align="center">
-<a href="https://github.com/FoysalAhmmedSadin/SIP-Dial"><img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=00FF88" /></a>
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🧰 TECHNOLOGY STACK
 
 **Android & Programming**
