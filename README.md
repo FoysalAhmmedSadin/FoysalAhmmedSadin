@@ -52,10 +52,10 @@ I focus on building Android apps with modern tools and thoughtful interfaces. I 
 ## 📊 GITHUB STATISTICS
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FoysalAhmmedSadin&show_icons=true&hide_border=true&bg_color=0B1220&title_color=7DD3FC&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoysalAhmmedSadin&layout=compact&hide_border=true&bg_color=0B1220&title_color=7DD3FC&text_color=E2E8F0" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FoysalAhmmedSadin&show_icons=true&hide_border=true&bg_color=0B1220&title_color=39FF14&icon_color=39FF14&text_color=B7FFB7&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoysalAhmmedSadin&layout=compact&hide_border=true&bg_color=0B1220&title_color=39FF14&text_color=B7FFB7" />
 <br/><br/>
-<img width="75%" src="https://streak-stats.demolab.com?user=FoysalAhmmedSadin&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=BAE6FD&dates=94A3B8&currStreakNum=E0F2FE&sideNums=E0F2FE" />
+<img width="75%" src="https://streak-stats.demolab.com?user=FoysalAhmmedSadin&hide_border=true&background=0B1220&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=B7FFB7&dates=7CFC00&currStreakNum=39FF14&sideNums=B7FFB7" />
 </div>
 
 ---
