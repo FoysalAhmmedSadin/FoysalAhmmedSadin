@@ -2,13 +2,17 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=FOYSAL%20AHMMED%20SADIN&fontSize=48&fontColor=39FF14&fontAlignY=42&desc=ANDROID%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=16&descColor=B7FFB7&descAlignY=62&color=0:050A05,35:102510,70:1B4D1B,100:39FF14&animation=twinkling&stroke=39FF14&strokeWidth=1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=720&height=55&lines=FOYSAL+AHMMED+SADIN;ANDROID+APPLICATION+DEVELOPER;KOTLIN+%7C+JETPACK+COMPOSE;BUILDING+THE+FUTURE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2000&pause=600&color=39FF14&center=true&vCenter=true&width=760&height=60&lines=FOYSAL+AHMMED+SADIN;ANDROID+APPLICATION+DEVELOPER;KOTLIN+%2B+JETPACK+COMPOSE;CRAFTING+MODERN+ANDROID+EXPERIENCES;BUILDING+THE+FUTURE" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=FoysalAhmmedSadin&style=for-the-badge&color=12301A&label=PROFILE+VIEWS" />
 <a href="https://github.com/FoysalAhmmedSadin?tab=followers"><img src="https://img.shields.io/github/followers/FoysalAhmmedSadin?style=for-the-badge&color=12301A&label=FOLLOWERS" /></a>
 <a href="https://github.com/FoysalAhmmedSadin?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-12301A?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=500&color=7CFC00&center=true&vCenter=true&width=650&height=35&lines=%3CAndroid+%2F%3E+INITIALIZING...;KOTLIN+CODE+%E2%9C%93;JETPACK+COMPOSE+%E2%9C%93;MATERIAL+DESIGN+%E2%9C%93;READY+TO+BUILD+%F0%9F%9A%80" />
 
 </div>
 
@@ -28,6 +32,18 @@ I focus on building Android apps with modern tools and thoughtful interfaces. I 
 - 🌐 **Portfolio:** [foysalahmmedsadin.netlify.app](https://foysalahmmedsadin.netlify.app)
 
 > *Learn continuously. Build thoughtfully. Improve every day.*
+
+---
+
+## 🤖 ANDROID DEVELOPMENT
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2300&pause=700&color=39FF14&center=true&vCenter=true&width=700&height=45&lines=fun+main()+%7B+launchAndroidApp()+%7D;Building+with+Kotlin;Designing+with+Jetpack+Compose;Powered+by+creativity+%26+coffee" />
+
+<img src="https://skillicons.dev/icons?i=android,kotlin,gradle&theme=dark" />
+
+</div>
 
 ---
 
