@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=240&text=FOYSAL%20AHMMED%20SADIN&fontSize=42&fontColor=E0F2FE&fontAlignY=42&desc=ANDROID%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descColor=BAE6FD&descAlignY=63&color=0:0B1220,45:164E63,100:0369A1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=240&text=FOYSAL%20AHMMED%20SADIN&fontSize=42&fontColor=39FF14&fontAlignY=42&desc=ANDROID%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descColor=B7FFB7&descAlignY=63&color=0:0B1220,45:12301A,100:39FF14" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Android+Application+Developer;Kotlin+%7C+Jetpack+Compose;Building+Useful+Digital+Products;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Android+Application+Developer;Kotlin+%7C+Jetpack+Compose;Building+Useful+Digital+Products;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=FoysalAhmmedSadin&style=for-the-badge&color=164E63&label=PROFILE+VIEWS" />
-<a href="https://github.com/FoysalAhmmedSadin?tab=followers"><img src="https://img.shields.io/github/followers/FoysalAhmmedSadin?style=for-the-badge&color=164E63&label=FOLLOWERS" /></a>
-<a href="https://github.com/FoysalAhmmedSadin?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-164E63?style=for-the-badge&logo=github&logoColor=E0F2FE" /></a>
+<img src="https://komarev.com/ghpvc/?username=FoysalAhmmedSadin&style=for-the-badge&color=12301A&label=PROFILE+VIEWS" />
+<a href="https://github.com/FoysalAhmmedSadin?tab=followers"><img src="https://img.shields.io/github/followers/FoysalAhmmedSadin?style=for-the-badge&color=12301A&label=FOLLOWERS" /></a>
+<a href="https://github.com/FoysalAhmmedSadin?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-12301A?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
 
 </div>
 
@@ -75,7 +75,7 @@ I focus on building Android apps with modern tools and thoughtful interfaces. I 
 ## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FoysalAhmmedSadin&bg_color=0B1220&color=7DD3FC&line=38BDF8&point=E0F2FE&area=true&area_color=164E63&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FoysalAhmmedSadin&bg_color=0B1220&color=39FF14&line=39FF14&point=7CFC00&area=true&area_color=12301A&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
 </div>
 
 ---
@@ -83,7 +83,7 @@ I focus on building Android apps with modern tools and thoughtful interfaces. I 
 ## 🏆 GITHUB ACHIEVEMENTS
 
 <div align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=FoysalAhmmedSadin&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=FoysalAhmmedSadin&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=10" />
 </div>
 
 ---
@@ -91,17 +91,17 @@ I focus on building Android apps with modern tools and thoughtful interfaces. I 
 ## 🌐 CONNECT WITH ME
 
 <div align="center">
-<a href="https://foysalahmmedsadin.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC" /></a>
-<a href="https://www.facebook.com/FoysalAhmmedSadin1"><img src="https://img.shields.io/badge/FACEBOOK-0B1220?style=for-the-badge&logo=facebook&logoColor=7DD3FC" /></a>
-<a href="https://www.instagram.com/yours_foysal"><img src="https://img.shields.io/badge/INSTAGRAM-0B1220?style=for-the-badge&logo=instagram&logoColor=7DD3FC" /></a>
-<a href="https://x.com/Yours_Foysal"><img src="https://img.shields.io/badge/X-0B1220?style=for-the-badge&logo=x&logoColor=7DD3FC" /></a>
-<a href="mailto:foysal24x7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=7DD3FC" /></a>
+<a href="https://foysalahmmedsadin.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=39FF14" /></a>
+<a href="https://www.facebook.com/FoysalAhmmedSadin1"><img src="https://img.shields.io/badge/FACEBOOK-0B1220?style=for-the-badge&logo=facebook&logoColor=39FF14" /></a>
+<a href="https://www.instagram.com/yours_foysal"><img src="https://img.shields.io/badge/INSTAGRAM-0B1220?style=for-the-badge&logo=instagram&logoColor=39FF14" /></a>
+<a href="https://x.com/Yours_Foysal"><img src="https://img.shields.io/badge/X-0B1220?style=for-the-badge&logo=x&logoColor=39FF14" /></a>
+<a href="mailto:foysal24x7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
 
 <br/><br/>
 
 ### BUILDING TODAY · INNOVATING TOMORROW
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:164E63,100:0284C7&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:12301A,100:39FF14&height=130&section=footer" />
 
 <sub>© Foysal Ahmmed Sadin · Thanks for visiting my profile!</sub>
 </div>
