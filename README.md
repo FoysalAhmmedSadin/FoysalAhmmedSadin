@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=240&text=FOYSAL%20AHMMED%20SADIN&fontSize=42&fontColor=39FF14&fontAlignY=42&desc=ANDROID%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descColor=B7FFB7&descAlignY=63&color=0:0B1220,45:12301A,100:39FF14" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=FOYSAL%20AHMMED%20SADIN&fontSize=48&fontColor=39FF14&fontAlignY=42&desc=ANDROID%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=16&descColor=B7FFB7&descAlignY=62&color=0:050A05,35:102510,70:1B4D1B,100:39FF14&animation=twinkling&stroke=39FF14&strokeWidth=1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Android+Application+Developer;Kotlin+%7C+Jetpack+Compose;Building+Useful+Digital+Products;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=720&height=55&lines=FOYSAL+AHMMED+SADIN;ANDROID+APPLICATION+DEVELOPER;KOTLIN+%7C+JETPACK+COMPOSE;BUILDING+THE+FUTURE" />
 
 <br/><br/>
 
